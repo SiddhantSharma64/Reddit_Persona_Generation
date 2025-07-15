@@ -1,0 +1,7 @@
+praw
+openai
+python-dotenv
+tqdm 
+requests 
+asyncpraw
+aiohttp 
